@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/ANKITMANDLA/helm-repo.gi
+    repoURL: https://github.com/ANKITMANDLA/helm-repo.git
     targetRevision: HEAD
   syncPolicy:
     automated:
