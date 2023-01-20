@@ -1,9 +1,9 @@
 
 apiVersion: v2
-name: nginx-ingress
+name: Grafana
 version:  1.0.0
 description: A Helm chart for Kubernetes
 dependencies:
-  - name: nginx-ingress
-    version:  1.41.3
+  - name: Grafana
+    version:  5.5.7
     repository: https://charts.helm.sh/stable
